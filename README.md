@@ -1,0 +1,2 @@
+# Raspberry-Hotspot
+Progetto Scolastico
